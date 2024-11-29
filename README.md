@@ -89,9 +89,9 @@
 - `Ctrl + Alt + h`: Delete word to the left
 
 ## Installation
-1. Download the latest version from the [releases page](link-to-releases)
-2. Extract files and run the installer
-3. Follow on-screen instructions to complete installation
+1. Download the latest version from the [releases page](https://github.com/frankervo/MacStyleKeys-By-Win/releases)
+2. Double click to run
+3. The AutoHotKeys icon appears on the taskbar and runs successfully
 
 ## License
-This project is licensed under the MIT License - see the [license file](link-to-license) for details
+This project is licensed under the MIT License - see the [license file](https://github.com/frankervo/MacStyleKeys-By-Win?tab=MIT-1-ov-file#readme) for details
