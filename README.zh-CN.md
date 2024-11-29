@@ -93,6 +93,3 @@
 1. 从[发布页面](https://github.com/frankervo/MacStyleKeys-By-Win/releases)下载最新版本
 2. 双击运行
 3. 任务栏出现 AutoHotKeys 图标运行成功
-
-## 许可证
-本项目采用 MIT 许可证，详情请查看 [许可证文件](https://github.com/frankervo/MacStyleKeys-By-Win?tab=MIT-1-ov-file#readme)

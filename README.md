@@ -93,5 +93,3 @@
 2. Double click to run
 3. The AutoHotKeys icon appears on the taskbar and runs successfully
 
-## License
-This project is licensed under the MIT License - see the [license file](https://github.com/frankervo/MacStyleKeys-By-Win?tab=MIT-1-ov-file#readme) for details
